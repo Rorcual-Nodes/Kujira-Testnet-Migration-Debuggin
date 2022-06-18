@@ -1,4 +1,5 @@
-# Kujira-Testnet-Migration-Debuggin
+# Kujira-Testnet-Migration-Common-Errors
+
 Common error displayed during migration procces. Head to blue.kujira.com/migrate to begin with the Migration pocess.
 
 
