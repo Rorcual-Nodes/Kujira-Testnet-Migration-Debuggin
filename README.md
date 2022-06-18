@@ -1,6 +1,6 @@
 # Kujira-Testnet-Migration-Common-Errors
 
-Common error displayed during migration procces. Head to blue.kujira.com/migrate to begin with the Migration pocess.
+Common error displayed during migration process. Head to blue.kujira.com/migrate to begin with the Migration process.
 
 
 Here is a detailed list of common Errors that could come up during the migration process.
@@ -9,7 +9,7 @@ Here is a detailed list of common Errors that could come up during the migration
 
 ![Wrong LCD](https://user-images.githubusercontent.com/107178227/174428355-1371c41a-705b-44be-a067-ebc02c6dbe39.jpg)
 
-This is a common error displayed when any of the parameters on Step 2 have been misspelled or incomplete. Filling the fields manually paying attention to spelling, spacing and caps solves this error.
+This is a common error displayed when any of the parameters on Step 2 have been misspelled or are incomplete. Filling the fields manually paying attention to spelling, spacing and caps solves this error.
 
 ## Signature verification failed.
 
@@ -21,16 +21,16 @@ Signature verification error usually is solved by making sure you are using the 
 
 ![Fresh Browser or Incognito](https://user-images.githubusercontent.com/107178227/174428089-afde4e11-387a-4a71-9f9b-16eef1849c32.jpg)
 
-This error is quite common among users and it is solve by trying the migration process on a different browser or in incognito mode.
+This error is solved by trying the migration process on a different browser or in incognito mode.
 
 ## Kujirad Migration not running.
 
 ![Fresh Browser or Incognito 2](https://user-images.githubusercontent.com/107178227/174428317-d78a4fe8-e859-4a95-a1cc-e83ba3e00308.jpg)
 
-Some users reported this error during migration and it is usally solved by trying the migration process on a different browser or in incognito mode.
+Some users reported that this message gets freezed on Terra Station during migration and it is usually solved by trying the migration process on a different browser or in incognito mode.
 
-## Default is not a constructor.
+## util$5.lon.default is not a constructor.
 
 ![Staking Refresh](https://user-images.githubusercontent.com/107178227/174428182-93e06b72-cc44-458e-ad08-fafc14691c0a.jpg)
 
-Once the migration process is successful and the user tries to stake their KUJI at blue.kujira.app/stake this error appears quite often. Simply refresh the tab and it should then work properly.
+Once the migration process is successful and the user tries to stake their KUJI at blue.kujira.app/stake this error may appear. Simply refresh the tab and it should then work properly.
