@@ -34,3 +34,9 @@ Some users reported that this message gets freezed on Terra Station during migra
 ![Staking Refresh](https://user-images.githubusercontent.com/107178227/174428182-93e06b72-cc44-458e-ad08-fafc14691c0a.jpg)
 
 Once the migration process is successful and the user tries to stake their KUJI at blue.kujira.app/stake this error may appear. Simply refresh the tab and it should then work properly.
+
+## -1250ukuji: invalid coin
+
+![Wrong chain on Keplr](https://user-images.githubusercontent.com/107178227/174475926-5f0ba29c-ee68-47c8-b9a4-3ffca8e2fb05.JPG)
+
+This error pops up when a chain different than Kujira Public Testnet is selected on Keplr wallet. To solve it just select the correct chain and retry.
